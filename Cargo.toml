@@ -6,4 +6,5 @@ members = [
 	"loc_cnt",
 	"file_vis",
 	"deep_search",
+	"file_list"
 ]

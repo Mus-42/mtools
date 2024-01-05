@@ -183,6 +183,14 @@ dependencies = [
 ]
 
 [[package]]
+name = "file_list"
+version = "0.1.0"
+dependencies = [
+ "clap",
+ "glob",
+]
+
+[[package]]
 name = "file_vis"
 version = "0.1.0"
 dependencies = [
